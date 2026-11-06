@@ -13,7 +13,7 @@ Additional language modes for CodeMirror 5, including several not shipped with t
 | elixir | [Elixir](https://elixir-lang.org/) | `text/x-elixir`, `text/elixir` | |
 | fish | [><> (Fish)](https://esolangs.org/wiki/Fish) | `text/x-fish`, `text/x-fishlang`, `application/x-fish` | |
 | fsharp | [F#](https://fsharp.org/) | `text/x-fsharp`, `text/x-fs` | Can be covered by the official `mllike` mode |
-| icon | [Icon](https://www.cs.arizona.edu/icon) | `text/x-icon`, `text/icon` | |
+| icon | [Icon](https://www.cs.arizona.edu/icon/index.htm) | `text/x-icon`, `text/icon` | |
 | malbolge | [Malbolge](https://esolangs.org/wiki/Malbolge) | `text/x-malbolge`, `text/malbolge` | Because Malbolge instructions are dynamically decrypted at runtime and the code self-modifies, this mode cannot statically highlight individual instructions. All non-whitespace characters are highlighted uniformly to prevent misleading users. |
 | nim | [Nim](https://nim-lang.org/) | `text/x-nim`, `text/nim` | |
 | ocaml | [OCaml](https://ocaml.org/) | `text/x-ocaml` | Can be covered by the official `mllike` mode |
