@@ -14,9 +14,11 @@ Additional language modes for CodeMirror 5, including several not shipped with t
 | fish | [><> (Fish)](https://esolangs.org/wiki/Fish) | `text/x-fish`, `text/x-fishlang`, `application/x-fish` | |
 | fsharp | [F#](https://fsharp.org/) | `text/x-fsharp`, `text/x-fs` | Can be covered by the official `mllike` mode |
 | icon | [Icon](https://www.cs.arizona.edu/icon) | `text/x-icon`, `text/icon` | |
+| malbolge | [Malbolge](https://esolangs.org/wiki/Malbolge) | `text/x-malbolge`, `text/malbolge` | Because Malbolge instructions are dynamically decrypted at runtime and the code self-modifies, this mode cannot statically highlight individual instructions. All non-whitespace characters are highlighted uniformly to prevent misleading users. |
 | nim | [Nim](https://nim-lang.org/) | `text/x-nim`, `text/nim` | |
 | ocaml | [OCaml](https://ocaml.org/) | `text/x-ocaml` | Can be covered by the official `mllike` mode |
 | prolog | [Prolog](https://www.swi-prolog.org/) | `text/x-prolog`, `text/prolog` | |
 | thue | [Thue](https://esolangs.org/wiki/Thue) | `text/x-thue`, `text/thue` | |
+| v | [V](https://vlang.io/) | `text/x-v`, `application/x-v` | |
 | zig | [Zig](https://ziglang.org/) | `text/x-zig`, `text/zig` | |
 | zirconium | [Zirconium](https://esolangs.org/wiki/Zirconium) | `text/x-zirconium`, `text/zirconium` | |
