@@ -7,18 +7,19 @@ Additional language modes for CodeMirror 5, including several not shipped with t
 | ada | [Ada](https://www.adaic.org/standards/) | `text/x-ada` | |
 | agda | [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) | `text/x-agda`, `text/agda` | |
 | b | [B](https://en.wikipedia.org/wiki/B_(programming_language)) | `text/x-b` | |
-| basic | [BASIC (Yabasic)](http://www.yabasic.de) | `text/x-basic`, `text/x-yabasic` | Not the same as the official `vb` mode |
+| basic | [BASIC (Yabasic)](http://www.yabasic.de) | `text/x-basic`, `text/x-yabasic` | Not the same as the official `vb` mode. |
 | befunge | [Befunge-93 / Befunge-98](https://esolangs.org/wiki/Befunge) | `text/x-befunge`, `text/x-befunge93`, `text/x-befunge98` | |
 | bqn | [BQN](https://mlochbaum.github.io/BQN/) | `text/x-bqn`, `text/bqn` | |
 | cobol | [COBOL](https://en.wikipedia.org/wiki/COBOL) | `text/x-cobol`, `text/x-cobolfree` | Unlike the official `cobol` mode (which is fixed-format only), this mode supports both free and fixed formats. |
 | elixir | [Elixir](https://elixir-lang.org/) | `text/x-elixir`, `text/elixir` | |
 | fish | [><> (Fish)](https://esolangs.org/wiki/Fish) | `text/x-fish`, `text/x-fishlang`, `application/x-fish` | |
-| fsharp | [F#](https://fsharp.org/) | `text/x-fsharp`, `text/x-fs` | Can be covered by the official `mllike` mode |
+| fsharp | [F#](https://fsharp.org/) | `text/x-fsharp`, `text/x-fs` | Can be covered by the official `mllike` mode. |
 | icon | [Icon](https://www.cs.arizona.edu/icon/index.htm) | `text/x-icon`, `text/icon` | |
 | malbolge | [Malbolge](https://esolangs.org/wiki/Malbolge) | `text/x-malbolge`, `text/malbolge` | Because Malbolge instructions are dynamically decrypted at runtime and the code self-modifies, this mode cannot statically highlight individual instructions. All non-whitespace characters are highlighted uniformly to prevent misleading users. |
 | nim | [Nim](https://nim-lang.org/) | `text/x-nim`, `text/nim` | |
-| ocaml | [OCaml](https://ocaml.org/) | `text/x-ocaml` | Can be covered by the official `mllike` mode |
+| ocaml | [OCaml](https://ocaml.org/) | `text/x-ocaml` | Can be covered by the official `mllike` mode. |
 | prolog | [Prolog](https://en.wikipedia.org/wiki/Prolog) | `text/x-prolog`, `text/prolog` | |
+| subleq | [Subleq](https://esolangs.org/wiki/Subleq) | `text/x-subleq` | |
 | thue | [Thue](https://esolangs.org/wiki/Thue) | `text/x-thue`, `text/thue` | |
 | v | [V](https://vlang.io/) | `text/x-v`, `application/x-v` | |
 | zig | [Zig](https://ziglang.org/) | `text/x-zig`, `text/zig` | |
